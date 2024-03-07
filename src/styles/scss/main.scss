@@ -1,0 +1,21 @@
+// ABSTRACTS
+@import "./abstracts/colors";
+@import "./abstracts/fonts";
+@import "./abstracts/variables";
+@import "./abstracts/mixins";
+
+// BASE
+@import "./base/base";
+
+// COMPONENTS
+@import "./components/button";
+@import "./components/nav";
+@import "./components/social";
+
+// LAYOUTS
+@import "./layouts/footer";
+@import "./layouts/header";
+@import "./layouts/welcome";
+@import "./layouts/menu";
+@import "./layouts/contact";
+@import "./layouts/gallery";
